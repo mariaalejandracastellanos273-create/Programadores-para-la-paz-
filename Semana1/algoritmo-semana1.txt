@@ -1,0 +1,8 @@
+algoritmo:
+1:buscar pruebas sobre la información.
+2:verificar la fuente que lo comparte.
+3:ver que sea actual.
+4:que reacción busca este contenido.
+5:respirar profundo antes de reaccionar 
+6:compartir solo si es certero y no afecta 
+a nadie.
