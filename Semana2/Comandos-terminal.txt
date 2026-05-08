@@ -1,0 +1,9 @@
+mkdir 
+cd 
+pwd
+ls 
+echo 
+git add
+git comit 
+git push
+cat
