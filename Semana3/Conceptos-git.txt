@@ -1,0 +1,11 @@
+Repositorio: funciona como una carpeta 
+inteligente en la nube que guarda
+los cambios que se hacen, cuando y quien 
+los realizo.
+commit: Es como una fotografía de tu proyecto 
+en el momento que quieras registrar que 
+archivos cambiaron quien lo hizo y un 
+mensaje que explica que se modifico.
+push: el push se utiliza para subir los 
+cambios desde tu rama local en tu repositorio 
+remoto.
