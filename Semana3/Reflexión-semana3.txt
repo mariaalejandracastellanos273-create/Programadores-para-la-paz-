@@ -1,0 +1,6 @@
+reflexion semana 3
+Es importante porque git es la memoria 
+del proyecto, cada cambio queda guardado, 
+quien lo hizo y cuando, te da la confianza 
+de hacer trabajos colaborativos y asi revisar 
+cambios guardados en el commit 
